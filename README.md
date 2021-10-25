@@ -2,7 +2,7 @@
 
 # 1. Intro
 
-In this *quick* section we'll set up a test, assign a metric as a monitor, then go through a quick incident. 
+In this *quick* section we'll set up a test, assign a metric as a monitor, then go through an incident. 
 
 If you're reading this as a readme on GitHub, you can download the notebook's [JSON file from `json_import.json`](https://raw.githubusercontent.com/ryanmaclean/azure-incident-response/main/json_import.json) file in the repository, and import it. 
 
