@@ -1,11 +1,3 @@
-### [Open Notebook in Datadog](https://us3.datadoghq.com/notebook/651/azure-incident-response) 
-
- ### 1h Oct 26, 11:01 pm - Oct 27, 12:01 am  
-
- # Azure Incident Response 
-
- ### Created by Ryan MacLean on Oct 24
-
 # Azure Incident Response with Datadog
 
 ## Workshop Checklist
@@ -24,9 +16,12 @@
 
 In this *quick* section we'll set up a test, assign a metric as a monitor, then go through an incident.
 
-If you're reading this as a readme on GitHub, you can download the notebook's [JSON file from `json_import.json`](https://raw.githubusercontent.com/ryanmaclean/azure-incident-response/main/json_import.json) file in the repository, and import it.
+If you're reading this as a readme on GitHub, you can download the notebook's [JSON file from `json_import.json`](https://raw.githubusercontent.com/ryanmaclean/azure-incident-response/main/json_import.json) file in the repository, and import it. 
 
-1. First [create a new notebook in Datadog](https://us3.datadoghq.com/notebook).
+You'll want do so for live graphs!
+
+Here's how:
+1. First [create a new notebook in Datadog](https://us3.datadoghq.com/notebook). Name it "Azure Incident Response".
 2. After creating a new notebook, import it from the top-right share icon:
 ![Screenshot of share drop-down menu showing all the share options: "Copy link to view mode", "Copy formatted contents", "Download as PDF", "Download as Markdown (.md)", "Import Notebook JSON", and finally "Export Notebook JSON".](https://github.com/ryanmaclean/azure-incident-response/blob/main/images/share_button_menu.png?raw=true)
 
