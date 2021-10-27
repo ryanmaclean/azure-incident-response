@@ -41,8 +41,10 @@ In a different tab, we'll need to retrieve the URL for our app service from the 
 
 
 
-After running a few tests - you can export the metrics or graphs to a dashboard (new or existing) or even add one to a notebook, as seen below!
+After running a few tests you can see we have successes and failures based on the test settings:
 ![](https://github.com/ryanmaclean/azure-incident-response/blob/main/images/synthetic_test_example.png?raw=true)
+
+You can export the metrics or graphs to a dashboard (new or existing) as seen below:
 ![](https://github.com/ryanmaclean/azure-incident-response/blob/main/images/add_to_dashboard.png?raw=true)
 
 You can also add to a notebook (as we've been doing in order to create this Notebook!):
