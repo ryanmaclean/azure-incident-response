@@ -100,13 +100,13 @@ Once the incident has been created, it will appear in the following graph of Act
 
 Throughout the incident lifecycle, we'll want to update the status in order to keep team team and stakeholders up-to-date on the progress. 
 
-Note that you can also link to both live chat as well as video chat - say for example you've set up a new Teams channel programmatically in order to deal with the incident, but also a live Teams video meeting muster point (or "war room"). Both can be added as links so that others can join and get updated with one click from the header on the incident's page.  *ADD IMAGE HERE*
+Note that you can also link to both live chat as well as video chat - say for example you've set up a new Teams channel programmatically in order to deal with the incident, but also a live Teams video meeting muster point (or "war room"). Both can be added as links so that others can join and get updated with one click from the header on the incident's page. 
 
 Next we'll go over adding an update, as well as sending out a notification from within the Incident Response section of Datadog. 
 
 To do so, first add an update from the [Incident Response _timeline_](https://us3.datadoghq.com/incidents/1/timeline).
 
-Once it has been updated, on the top-right of the Incident Response page, we'll send out a notification: *ADD IMAGE HERE*
+Once it has been updated, on the top-right of the Incident Response page, we'll send out a notification:
 
 Next we'll add a task to the incident. This is like a to-do list for the team. You can assign tasks to team members as well as add a deadline, if required. 
 
